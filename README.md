@@ -1,4 +1,4 @@
-- learner of python
+- learner of cpp
 - likes to break computers
 - requires alot of food to operate
 
