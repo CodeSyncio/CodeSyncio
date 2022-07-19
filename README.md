@@ -5,7 +5,7 @@
 "I love my country, not my government <3 "
 
 Contact:
-* [here](https://ferrevdd.github.io/)
+* [here](https://CodeSyncio.github.io/)
 
 <!---
 ferrevdd/ferrevdd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
