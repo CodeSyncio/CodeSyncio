@@ -1,4 +1,4 @@
-- learner of cpp
+- Java(spigot), Python, c++
 - likes to break computers
 - requires alot of food to operate
 
