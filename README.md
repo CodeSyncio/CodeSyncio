@@ -2,7 +2,7 @@
 - likes to break computers
 - requires alot of food to operate
 
-"I love my country, not my government <3 "
+"Dont supress , but explain <3 "
 
 Contact:
 * [here](https://CodeSyncio.github.io/)
