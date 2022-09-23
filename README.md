@@ -1,6 +1,4 @@
 - Java(spigot), Python, c++
-- likes to break computers
-- requires alot of food to operate
 
 "Dont supress , but explain <3 "
 
