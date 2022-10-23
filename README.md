@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=true&username=codesyncio" height="150" alt="languages graph"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/Codesyncio/Codesyncio/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Codesyncio/Codesyncio/output/snake.svg" alt="Snake animation" />
 
 ###
 ###
