@@ -6,8 +6,9 @@ I am a young programmer,and I have been coding since i was a kid. I love everyth
 ## My favorite languages
 - Python
 - Rust
-## My most recent project
-[AutWomboGUI](https://github.com/CodeSyncio/autwomboGUI)
+## My most recent projects
+- [AutWomboGUI](https://github.com/CodeSyncio/autwomboGUI)
+- [Lunar Insight](https://github.com/CodeSyncio/Lunar-Insight)
 ## Want to contact me?
 - discord: `codesyncio`
 
