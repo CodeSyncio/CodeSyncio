@@ -14,7 +14,7 @@ I am a young programmer,and I have been coding since i was a kid. I love everyth
 
 
 
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codesyncio&show_icons=true&locale=en&layout=compact" alt="codesyncio" /></p>
 <img src="https://raw.githubusercontent.com/Codesyncio/Codesyncio/output/snake.svg" alt="Snake animation"/>
 
 
