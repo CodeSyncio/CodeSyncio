@@ -1,18 +1,22 @@
-- Java(spigot), Python, c#
+# Hello there! Thank you for visiting my profile!
+## Who am I?
+I am a young programmer,and I have been coding since i was a kid. I love everything about computers, from software to hardware. I'm always interested in new projects :) <br>
 
-> _Dont supress , but explain <3_
-<h2 align="left"></h2>
 
-###
+## My favorite languages
+- Python
+- Rust
+## My most recent project
+[AutWomboGUI](https://github.com/CodeSyncio/autwomboGUI)
+## Want to contact me?
+- discord: `codesyncio`
+
 
 
 
 <img src="https://raw.githubusercontent.com/Codesyncio/Codesyncio/output/snake.svg" alt="Snake animation"/>
 
-###
-###
-Contact:
-* [here](https://CodeSyncio.github.io/)
+
 
 
 <!---
