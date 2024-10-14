@@ -7,7 +7,7 @@ I am a young programmer,and I have been coding since i was a kid. I love everyth
 - Python
 - Rust
 ## My most recent projects
-- [AutWomboGUI](https://github.com/CodeSyncio/autwomboGUI)
+- [PyWomboAPI](https://github.com/CodeSyncio/PyWomboAPI)
 - [Lunar Insight](https://github.com/CodeSyncio/Lunar-Insight)
 ## Want to contact me?
 - discord: `codesyncio`
